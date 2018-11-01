@@ -1,6 +1,6 @@
 # Project Alchemy
 
-An effort to bring together the [Zcash](https://z.cash/) and [Ethereum](https://ethereum.org) blockchains
+An effort to bring together the [Zcash](https://z.cash/) and [Ethereum](https://ethereum.org) blockchains and [Aion](https://aion.network)
 
 ## ZRelay
 
